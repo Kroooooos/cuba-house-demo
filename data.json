@@ -1,0 +1,299 @@
+{
+  "shop": {
+    "name_zh": "古巴之家",
+    "name_en": "CUBA HOUSE",
+    "tagline_zh": "正本溯源 · 古巴哈瓦那原产手工雪茄",
+    "tagline_en": "Authentic Habanos, Hand-Rolled in Havana",
+    "phone": "+853-6386 4666",
+    "address_zh": "澳门华大新村第二街（第一座）华富楼地下 F 座 13 号地下（古巴之家）",
+    "address_en": "Shop F13, G/F, Wah Fu Bldg, Block 1, 2nd Street, Wah Tai Sun Chuen, Macau",
+    "wechat": "请扫码添加",
+    "wechat_en": "Scan to add on WeChat",
+    "hours_zh": "每日 11:00 – 22:00",
+    "hours_en": "Daily 11:00 – 22:00",
+    "currency": "HKD",
+    "note_zh": "本网站仅作商品陈列展示，最终价格与库存以门店实物为准，欢迎到店或来电洽谈批发。",
+    "note_en": "This site is for product display only. Final price and stock are subject to in-store confirmation. Wholesale enquiries welcome by phone or in person."
+  },
+  "brand": {
+    "id": "cohiba",
+    "name_zh": "高希霸",
+    "name_en": "Cohiba",
+    "origin_zh": "古巴·哈瓦那",
+    "origin_en": "Havana, Cuba",
+    "maker": "Habanos S.A.",
+    "intro_zh": "高希霸（Cohiba）创立于 1966 年，是古巴国营雪茄的旗舰品牌，全部由 El Laguito 等顶级厂房手工卷制，烟叶经独有的三次发酵工艺，被誉为古巴雪茄的巅峰。",
+    "intro_en": "Founded in 1966, Cohiba is the flagship of Cuban state cigars. Hand-rolled at El Laguito and other premier factories, its tobacco undergoes a unique third fermentation, making it the pinnacle of Habanos."
+  },
+  "versions": {
+    "guoying": { "zh": "国营官方", "en": "State / Official" },
+    "oushui": { "zh": "欧版 · 欧水", "en": "EU Market" },
+    "jialebi": { "zh": "加勒比", "en": "Caribbean" },
+    "feiniji": { "zh": "腓尼基 Phoenicia", "en": "Phoenicia (TAA)" },
+    "ehang": { "zh": "俄行", "en": "Russia Market" },
+    "xihang": { "zh": "西行 · 西班牙", "en": "Spain Market" },
+    "ruihang": { "zh": "瑞行 · 瑞士", "en": "Switzerland Market" },
+    "dsa": { "zh": "DSA", "en": "DSA" }
+  },
+  "products": [
+    {
+      "id": "behike-bhk-54",
+      "family_zh": "Behike 殿堂系列",
+      "family_en": "Behike",
+      "name_zh": "高希霸 Behike BHK 54",
+      "name_en": "Cohiba Behike BHK 54",
+      "vitola_zh": "传奇尊享",
+      "vitola_en": "Laguito No. 5",
+      "size": { "length_mm": 144, "ring_gauge": 54, "ring_mm": 21.4 },
+      "desc_zh": "Behike 是高希霸的殿堂级旗舰，以稀有的 Medio Tiempo 顶叶卷制，产量极少。BHK 54 烟体饱满、层次浓郁，是收藏与品鉴的标杆之作。",
+      "desc_en": "Behike is Cohiba's ultimate flagship, blended with the rare Medio Tiempo leaf and produced in tiny quantities. The BHK 54 is full-bodied and richly layered — a benchmark for collectors and connoisseurs.",
+      "images": ["behike-bhk-54.jpg"],
+      "size_strip": true,
+      "featured": true,
+      "editions": [
+        { "qty": 10, "box_zh": "木盒", "box_en": "Wood box", "version": "dsa", "price_hkd": 33000 },
+        { "qty": 4, "box_zh": "伴手礼", "box_en": "Gift sampler", "version": "guoying", "price_hkd": 21500 }
+      ]
+    },
+    {
+      "id": "behike-bhk-52",
+      "family_zh": "Behike 殿堂系列",
+      "family_en": "Behike",
+      "name_zh": "高希霸 Behike BHK 52",
+      "name_en": "Cohiba Behike BHK 52",
+      "vitola_zh": "传奇罗布图",
+      "vitola_en": "Laguito No. 4",
+      "size": { "length_mm": 119, "ring_gauge": 52, "ring_mm": 20.6 },
+      "desc_zh": "BHK 52 是 Behike 系列中较为紧凑的规格，同样选用珍稀 Medio Tiempo 叶，口感浓郁均衡，适合时间有限时的极致享受。",
+      "desc_en": "The most compact of the Behike line, the BHK 52 also uses the prized Medio Tiempo leaf — concentrated yet balanced, ideal for a shorter but uncompromising smoke.",
+      "images": ["behike-bhk-52.jpg"],
+      "size_strip": true,
+      "featured": true,
+      "editions": [
+        { "qty": 10, "box_zh": "木盒", "box_en": "Wood box", "version": "feiniji", "price_hkd": 23200 }
+      ]
+    },
+    {
+      "id": "linea-1492-siglo-vi",
+      "family_zh": "Línea 1492 世纪系列",
+      "family_en": "Línea 1492",
+      "name_zh": "高希霸 世纪 6 号",
+      "name_en": "Cohiba Siglo VI",
+      "vitola_zh": "卡诺尼斯",
+      "vitola_en": "Cañonazo",
+      "size": { "length_mm": 150, "ring_gauge": 52, "ring_mm": 20.6 },
+      "desc_zh": "世纪系列为纪念哥伦布发现新大陆 500 周年而生。世纪 6 号是其中最受追捧的规格，烟体粗壮、香气华美，被视为现代古巴雪茄的代表作。",
+      "desc_en": "The Línea 1492 celebrates the 500th anniversary of Columbus reaching the New World. The Siglo VI, its most sought-after size, is full-girthed and gloriously aromatic — a modern Habanos icon.",
+      "images": ["linea-1492-siglo-vi.jpg", "linea-1492-siglo-vi-1.jpg"],
+      "size_strip": true,
+      "featured": true,
+      "editions": [
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "jialebi", "year": "2022", "price_hkd": 29800 },
+        { "qty": 15, "box_zh": "铝管", "box_en": "Tubed", "version": "jialebi", "year": "2019–2023", "price_hkd": 18800 },
+        { "qty": 10, "box_zh": "纸盒", "box_en": "Cardboard box", "version": "oushui", "price_hkd": 10200 }
+      ]
+    },
+    {
+      "id": "linea-1492-siglo-iv",
+      "family_zh": "Línea 1492 世纪系列",
+      "family_en": "Línea 1492",
+      "name_zh": "高希霸 世纪 4 号",
+      "name_en": "Cohiba Siglo IV",
+      "vitola_zh": "科罗纳斯·格兰德斯",
+      "vitola_en": "Coronas Gordas",
+      "size": { "length_mm": 143, "ring_gauge": 46, "ring_mm": 18.3 },
+      "desc_zh": "世纪 4 号兼顾长度与环径，香气饱满而不失优雅，是世纪系列中最均衡耐抽的一款。",
+      "desc_en": "Balancing length and ring gauge, the Siglo IV is full yet elegant — arguably the most well-rounded smoke in the Siglo line.",
+      "images": ["linea-1492-siglo-iv.jpg"],
+      "size_strip": true,
+      "editions": [
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "oushui", "price_hkd": 15600 }
+      ]
+    },
+    {
+      "id": "linea-1492-siglo-iii",
+      "family_zh": "Línea 1492 世纪系列",
+      "family_en": "Línea 1492",
+      "name_zh": "高希霸 世纪 3 号",
+      "name_en": "Cohiba Siglo III",
+      "vitola_zh": "科罗纳斯·格兰德斯",
+      "vitola_en": "Corona Grande",
+      "size": { "length_mm": 155, "ring_gauge": 42, "ring_mm": 16.67 },
+      "desc_zh": "世纪 3 号修长优雅，燃烧从容，适合从容时光中细细品味世纪系列的经典风味。",
+      "desc_en": "Long and graceful, the Siglo III burns slowly and rewards an unhurried session with the classic Siglo profile.",
+      "images": ["linea-1492-siglo-iii.jpg"],
+      "size_strip": true,
+      "editions": [
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "oushui", "price_hkd": 15000 },
+        { "qty": 15, "box_zh": "纸盒", "box_en": "Cardboard box", "version": "jialebi", "year": "2021–2022", "price_hkd": 11400 }
+      ]
+    },
+    {
+      "id": "linea-1492-siglo-ii",
+      "family_zh": "Línea 1492 世纪系列",
+      "family_en": "Línea 1492",
+      "name_zh": "高希霸 世纪 2 号",
+      "name_en": "Cohiba Siglo II",
+      "vitola_zh": "马雷瓦",
+      "vitola_en": "Mareva",
+      "size": { "length_mm": 129, "ring_gauge": 42, "ring_mm": 16.67 },
+      "desc_zh": "世纪 2 号体型适中，入口顺滑，是入门世纪系列、感受高希霸标志性香气的理想选择。",
+      "desc_en": "Medium-sized and smooth, the Siglo II is an ideal entry to the Siglo line and to Cohiba's signature aroma.",
+      "images": ["linea-1492-siglo-ii.jpg"],
+      "size_strip": true,
+      "editions": [
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "ehang", "price_hkd": 11600 },
+        { "qty": 25, "box_zh": "纸盒", "box_en": "Cardboard box", "version": "guoying", "price_hkd": 10800 }
+      ]
+    },
+    {
+      "id": "linea-1492-siglo-i",
+      "family_zh": "Línea 1492 世纪系列",
+      "family_en": "Línea 1492",
+      "name_zh": "高希霸 世纪 1 号",
+      "name_en": "Cohiba Siglo I",
+      "vitola_zh": "佩蒂特·科罗纳",
+      "vitola_en": "Perla",
+      "size": { "length_mm": 102, "ring_gauge": 40, "ring_mm": 15.87 },
+      "desc_zh": "世纪 1 号是世纪系列中最小巧的规格，约半小时即可享受一支，方便随身携带，风味依旧细腻。",
+      "desc_en": "The smallest of the Siglo line, the Siglo I delivers a refined half-hour smoke — easy to carry, never short on character.",
+      "images": ["linea-1492-siglo-i.jpg"],
+      "size_strip": true,
+      "editions": [
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "jialebi", "year": "2019", "price_hkd": 8200 },
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "guoying", "price_hkd": 7200 },
+        { "qty": 25, "box_zh": "纸盒", "box_en": "Cardboard box", "version": "oushui", "price_hkd": 6400 }
+      ]
+    },
+    {
+      "id": "robustos",
+      "family_zh": "Clásica 经典系列",
+      "family_en": "Clásica",
+      "name_zh": "高希霸 罗布图",
+      "name_en": "Cohiba Robustos",
+      "vitola_zh": "罗布图",
+      "vitola_en": "Robustos",
+      "size": { "length_mm": 124, "ring_gauge": 50, "ring_mm": 19.84 },
+      "desc_zh": "罗布图是高希霸经典系列中最具代表性的一款，环径粗、烟量足，风味浓郁均衡，是无数老饕心中的常备之选。",
+      "desc_en": "The Robustos is the most emblematic of Cohiba's Clásica line — thick gauge, generous smoke and a rich, balanced profile that keeps aficionados coming back.",
+      "images": ["robustos.jpg", "robustos-1.jpg"],
+      "size_strip": true,
+      "featured": true,
+      "editions": [
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "jialebi", "year": "2022", "price_hkd": 17800 },
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "feiniji", "price_hkd": 17000 },
+        { "qty": 15, "box_zh": "纸盒", "box_en": "Cardboard box", "version": "oushui", "price_hkd": 10300 },
+        { "qty": 15, "box_zh": "铝管", "box_en": "Tubed", "version": "jialebi", "year": "2019–2022", "price_hkd": 11800 }
+      ]
+    },
+    {
+      "id": "maduro-genios",
+      "family_zh": "Maduro 5 系列",
+      "family_en": "Maduro 5",
+      "name_zh": "高希霸 天才",
+      "name_en": "Cohiba Genios",
+      "vitola_zh": "格兰德斯",
+      "vitola_en": "Genios",
+      "size": { "length_mm": 140, "ring_gauge": 52, "ring_mm": 20.6 },
+      "desc_zh": "Maduro 5 系列采用陈化五年以上的深色 Maduro 茄衣，天才（Genios）口感醇厚甜润，带咖啡与可可气息，风格独树一帜。",
+      "desc_en": "The Maduro 5 line is wrapped in a dark, five-year-aged maduro leaf. The Genios is mellow and sweet with notes of coffee and cocoa — a distinctive Cohiba experience.",
+      "images": ["maduro-genios.jpg"],
+      "size_strip": false,
+      "editions": [
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "jialebi", "year": "2021", "price_hkd": 31000 }
+      ]
+    },
+    {
+      "id": "maduro-magicos",
+      "family_zh": "Maduro 5 系列",
+      "family_en": "Maduro 5",
+      "name_zh": "高希霸 魔术师",
+      "name_en": "Cohiba Magicos",
+      "vitola_zh": "罗布图·埃斯特拉",
+      "vitola_en": "Robustos Extra",
+      "size": { "length_mm": 115, "ring_gauge": 52, "ring_mm": 20.6 },
+      "desc_zh": "魔术师是 Maduro 5 系列中紧凑而饱满的规格，深色茄衣带来浓郁顺滑的甜韵，短时间内即可尽享醇厚。",
+      "desc_en": "Compact yet full, the Magicos packs the Maduro 5's dark-wrapper sweetness into a shorter, richly smooth smoke.",
+      "images": ["maduro-magicos.jpg", "maduro-magicos-1.jpg"],
+      "size_strip": true,
+      "editions": [
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "jialebi", "year": "2022", "price_hkd": 23000 },
+        { "qty": 10, "box_zh": "木盒", "box_en": "Wood box", "version": "guoying", "price_hkd": 9200 }
+      ]
+    },
+    {
+      "id": "maduro-secretos",
+      "family_zh": "Maduro 5 系列",
+      "family_en": "Maduro 5",
+      "name_zh": "高希霸 奥秘",
+      "name_en": "Cohiba Secretos",
+      "vitola_zh": "斯坦达",
+      "vitola_en": "Secretos",
+      "size": { "length_mm": 110, "ring_gauge": 40, "ring_mm": 15.87 },
+      "desc_zh": "奥秘是 Maduro 5 系列中最纤巧的规格，深色茄衣赋予柔顺甜润的口感，适合作为日常细品之选。",
+      "desc_en": "The slimmest Maduro 5, the Secretos offers the line's soft, sweet maduro character in an easy everyday format.",
+      "images": ["maduro-secretos.jpg", "maduro-secretos-1.jpg"],
+      "size_strip": true,
+      "editions": [
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "jialebi", "year": "2019", "price_hkd": 12200 },
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "guoying", "price_hkd": 11400 },
+        { "qty": 10, "box_zh": "木盒", "box_en": "Wood box", "version": "guoying", "price_hkd": 4600 }
+      ]
+    },
+    {
+      "id": "maduro-medio-siglo",
+      "family_zh": "Maduro 5 系列",
+      "family_en": "Maduro 5",
+      "name_zh": "高希霸 半世纪",
+      "name_en": "Cohiba Medio Siglo",
+      "vitola_zh": "佩蒂特·罗布图",
+      "vitola_en": "Petit Robustos",
+      "size": { "length_mm": 102, "ring_gauge": 52, "ring_mm": 20.6 },
+      "desc_zh": "半世纪为纪念高希霸创立 50 周年而推出，小巧却环径饱满，深色茄衣浓缩了 Maduro 5 的醇厚风味。",
+      "desc_en": "Launched for Cohiba's 50th anniversary, the Medio Siglo is small but thick-gauged, concentrating the Maduro 5's rich character into a short smoke.",
+      "images": ["maduro-medio-siglo.jpg"],
+      "size_strip": true,
+      "editions": [
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "oushui", "price_hkd": 12200 },
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "jialebi", "year": "2022", "price_hkd": 13000 }
+      ]
+    },
+    {
+      "id": "maduro-novedosos",
+      "family_zh": "Maduro 5 系列",
+      "family_en": "Maduro 5",
+      "name_zh": "高希霸 新星",
+      "name_en": "Cohiba Novedosos",
+      "vitola_zh": "皮拉米德",
+      "vitola_en": "Piramides Extra",
+      "size": { "length_mm": 135, "ring_gauge": 52, "ring_mm": 20.6 },
+      "desc_zh": "新星是 Maduro 5 系列中的限量规格，造型独特、深色茄衣醇厚，是收藏家眼中的稀有之选。",
+      "desc_en": "A limited size within the Maduro 5 line, the Novedosos pairs a distinctive shape with the line's rich dark wrapper — a rare pick for collectors.",
+      "images": ["maduro-novedosos.jpg"],
+      "size_strip": true,
+      "editions": [
+        { "qty": 25, "box_zh": "木盒", "box_en": "Wood box", "version": "guoying", "price_hkd": 0 }
+      ]
+    },
+    {
+      "id": "ambar",
+      "family_zh": "特别系列",
+      "family_en": "Special",
+      "name_zh": "高希霸 琥珀",
+      "name_en": "Cohiba Ambar",
+      "vitola_zh": "—",
+      "vitola_en": "—",
+      "size": null,
+      "size_note_zh": "尺寸以门店实物为准",
+      "size_note_en": "Size subject to in-store confirmation",
+      "desc_zh": "琥珀是店内现货的高希霸特别规格，以铝管单支保存，便于携带与馈赠，欢迎到店品鉴。",
+      "desc_en": "An in-store special format of Cohiba, the Ambar is kept in single aluminium tubes — convenient to carry and to gift. Visit us to sample.",
+      "images": ["ambar.jpg"],
+      "size_strip": true,
+      "editions": [
+        { "qty": 15, "box_zh": "铝管", "box_en": "Tubed", "version": "guoying", "price_hkd": 14300 },
+        { "qty": 10, "box_zh": "盒装", "box_en": "Box", "version": "guoying", "price_hkd": 9600 }
+      ]
+    }
+  ]
+}
